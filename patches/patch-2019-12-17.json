@@ -1,0 +1,10 @@
+{
+    "chain_id": "oasis-testnet-p2-2019-12-17",
+    "consensus": {
+        "params": {
+            "timeout_commit": 5000000000
+        }
+    },
+    "genesis_time": "2019-12-17T19:00:00.0000000Z",
+    "halt_epoch": 11393
+}
